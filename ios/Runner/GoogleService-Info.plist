@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>292060146642-jed0keb0a316sf29vgsnt8g876tv3301.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.292060146642-jed0keb0a316sf29vgsnt8g876tv3301</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>292060146642-2he6cpk8dkq2usou5j3hh79ntffdo6cl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0u2ZY8K_ncfiposyIVTqzflNRAk0S_a4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>292060146642</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.hangout</string>
+	<key>PROJECT_ID</key>
+	<string>hang-out-b06z1c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hang-out-b06z1c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:292060146642:ios:cbc0ea1c0d6dcaf281f60b</string>
+</dict>
+</plist>
